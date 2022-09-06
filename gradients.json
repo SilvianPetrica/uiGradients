@@ -15,6 +15,12 @@
         "name": "Ibtesam",
         "colors": ["#00F5A0", "#00D9F5"]
     },
+  
+    {
+        "name": "SoftColor",
+        "colors": ["#afc7ed", "#6a324b"]
+    },
+  
     {
         "name": "Radioactive Heat",
         "colors": ["#F7941E", "#72C6EF", "#00A651"]
